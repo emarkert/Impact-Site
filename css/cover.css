@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=News+Cycle);
 /*
  * Globals
  */
@@ -27,10 +28,11 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
 }
 body {
   color: #fff;
+  font-family: 'News Cycle', sans-serif;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
