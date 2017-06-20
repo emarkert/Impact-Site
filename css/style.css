@@ -1,0 +1,12 @@
+/* h1 */
+h1 {
+  text-shadow: 2px 2px 2px #333;
+}
+
+h2 {
+  text-shadow: 2px 2px 2px #333;
+}
+
+.btn {
+  box-shadow: 2px 2px 2px #333;
+}
